@@ -1,0 +1,3499 @@
+{
+  "words": [
+    {
+      "word": "IT",
+      "clue": "A pronoun for a thing.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NO",
+      "clue": "A negative response.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "IS",
+      "clue": "Third person singular present of be.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TO",
+      "clue": "A preposition indicating direction.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GO",
+      "clue": "To move or travel.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DO",
+      "clue": "To perform an action.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AN",
+      "clue": "Indefinite article (before a vowel).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MY",
+      "clue": "Possessive pronoun.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SO",
+      "clue": "To such a great extent.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "UP",
+      "clue": "To a higher place or position.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ON",
+      "clue": "Supported by or covering.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BY",
+      "clue": "Near; next to; via.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AT",
+      "clue": "Expressing location or arrival.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OR",
+      "clue": "Used to link alternatives.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AS",
+      "clue": "Used in comparisons.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "IF",
+      "clue": "On condition that.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OF",
+      "clue": "Expressing the relationship between a part and a whole.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "IN",
+      "clue": "Expressing a position within.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AND",
+      "clue": "A conjunction connecting words.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CAT",
+      "clue": "A small furry animal.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DOG",
+      "clue": "A common domesticated canine.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SUN",
+      "clue": "The star that provides light and heat.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CAR",
+      "clue": "A road vehicle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MAP",
+      "clue": "A diagrammatic representation of an area.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RED",
+      "clue": "A primary color.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLUE",
+      "clue": "Another primary color.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BIG",
+      "clue": "Of considerable size or extent.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLY",
+      "clue": "To move through the air.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EAT",
+      "clue": "To put food in the mouth and swallow.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RUN",
+      "clue": "To move at a speed faster than walking.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SKY",
+      "clue": "The region of the atmosphere.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SEA",
+      "clue": "The expanse of salt water.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TREE",
+      "clue": "A tall plant with a trunk and branches.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SHIP",
+      "clue": "A large boat.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BIRD",
+      "clue": "A feathered, winged animal.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FISH",
+      "clue": "An aquatic animal with gills and fins.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BUS",
+      "clue": "A large road vehicle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KEY",
+      "clue": "Used to open a lock.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EYE",
+      "clue": "Organ of sight.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EAR",
+      "clue": "Organ of hearing.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LEG",
+      "clue": "Limb used for walking.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ARM",
+      "clue": "Upper limb of the human body.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BOX",
+      "clue": "A container with a flat base and sides.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PEN",
+      "clue": "Used to write on a paper.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CUP",
+      "clue": "Small open container for drinking",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FOOD",
+      "clue": "Substance consumed for nourishment.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TIME",
+      "clue": "The measured or measurable period.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CITY",
+      "clue": "A large town.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PARK",
+      "clue": "A public garden or recreation area.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HOME",
+      "clue": "A place where one lives.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BOOK",
+      "clue": "A written or printed work.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GAME",
+      "clue": "An activity for amusement or competition.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NAME",
+      "clue": "A word by which someone is known.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RAIN",
+      "clue": "Water falling in drops from vapor.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SNOW",
+      "clue": "Frozen atmospheric vapor.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WIND",
+      "clue": "Natural movement of the air.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "STAR",
+      "clue": "A luminous point in the night sky.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MOON",
+      "clue": "The natural satellite of the earth.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WATER",
+      "clue": "A transparent, odorless, tasteless liquid.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "APPLE",
+      "clue": "A common fruit, often red or green.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TABLE",
+      "clue": "A piece of furniture with a flat top.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHAIR",
+      "clue": "A seat, typically having four legs.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLACK",
+      "clue": "The darkest color.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WHITE",
+      "clue": "The lightest color.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GREEN",
+      "clue": "The color of grass.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "YELLOW",
+      "clue": "The color of sunflowers.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ORANGE",
+      "clue": "A citrus fruit and a color.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PURPLE",
+      "clue": "A color between red and blue.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "NUMBER",
+      "clue": "An arithmetical value.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LETTER",
+      "clue": "A symbol representing a speech sound.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WINDOW",
+      "clue": "An opening in a wall.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DOOR",
+      "clue": "A hinged, sliding, or revolving barrier.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "STREET",
+      "clue": "A public road in a city or town.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MUSIC",
+      "clue": "Vocal or instrumental sounds.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "GUITAR",
+      "clue": "A stringed musical instrument",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PIANO",
+      "clue": "A large keyboard musical instrument",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PHONE",
+      "clue": "A telephone.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLOCK",
+      "clue": "An instrument to measure time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RADIO",
+      "clue": "Device for receiving broadcast signals.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BOARD",
+      "clue": "A flat piece of material.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LIGHT",
+      "clue": "Electromagnetic radiation.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLOUD",
+      "clue": "Visible mass of condensed water vapor",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SCHOOL",
+      "clue": "An institution for educating children.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "OFFICE",
+      "clue": "A room or building for work.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MARKET",
+      "clue": "A place where goods are bought and sold.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "RIVER",
+      "clue": "A large natural stream of water.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MOUNTAIN",
+      "clue": "A large natural elevation of the earth's surface.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ISLAND",
+      "clue": "A piece of land surrounded by water.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FOREST",
+      "clue": "A large area covered chiefly with trees.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BANANA",
+      "clue": "A long, curved fruit with yellow skin.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GRAPE",
+      "clue": "Small, round fruits that grow in bunches.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LEMON",
+      "clue": "A sour, yellow citrus fruit.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MELON",
+      "clue": "A large, sweet fruit with a thick rind.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PYTHON",
+      "clue": "A high-level, general-purpose programming language.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DOCTOR",
+      "clue": "A qualified practitioner of medicine.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "TEACHER",
+      "clue": "A person who teaches.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "STUDENT",
+      "clue": "A person who is studying.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FRIEND",
+      "clue": "A person whom one knows and with whom one has a bond of mutual affection.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FAMILY",
+      "clue": "A group of one or more parents and their children.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ANIMAL",
+      "clue": "A living organism that feeds on organic matter.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PLANT",
+      "clue": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEACH",
+      "clue": "A sandy shore by a body of water.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PAPER",
+      "clue": "Material for writing or drawing on.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OCEAN",
+      "clue": "A very large expanse of sea.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "NIGHT",
+      "clue": "The period of darkness in each twenty-four hours.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WORLD",
+      "clue": "The earth, together with all of its countries, peoples, and natural features.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SPACE",
+      "clue": "The limitless expanse in which all things exist and move.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "AD",
+      "clue": "Short for advertisement.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AM",
+      "clue": "First-person singular present of be.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BE",
+      "clue": "To exist or take place.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HE",
+      "clue": "A male person or animal.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WE",
+      "clue": "Used by a speaker to refer to themself and others.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ME",
+      "clue": "Used by a speaker to refer to himself or herself.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HI",
+      "clue": "An informal greeting.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OH",
+      "clue": "An exclamation of surprise, etc.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AGE",
+      "clue": "The length of time that someone has lived.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AIR",
+      "clue": "The invisible gaseous substance surrounding Earth.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ALL",
+      "clue": "The whole quantity or extent of.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ANT",
+      "clue": "A small insect, often living in colonies.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ART",
+      "clue": "The expression of creative skill and imagination.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ASK",
+      "clue": "To say something in order to obtain an answer.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BAD",
+      "clue": "Of poor quality or a low standard.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BAG",
+      "clue": "A flexible container with an opening at the top.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BAT",
+      "clue": "A flying mammal; also a piece of sports equipment.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BED",
+      "clue": "A piece of furniture for sleep.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BOY",
+      "clue": "A young male person.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BUT",
+      "clue": "Used to introduce a contrasting statement.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CAN",
+      "clue": "Able to; also a metal container.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COW",
+      "clue": "A fully grown female animal of a domesticated breed of ox.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRY",
+      "clue": "To shed tears.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DAY",
+      "clue": "A period of 24 hours.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DIE",
+      "clue": "To stop living.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DRY",
+      "clue": "Free from moisture or liquid.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "END",
+      "clue": "A final part of something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FAR",
+      "clue": "At, to, or by a great distance.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FAT",
+      "clue": "Having much flesh; overweight.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FEW",
+      "clue": "A small number of.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FOR",
+      "clue": "In support of or because of.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FOX",
+      "clue": "A carnivorous mammal with a pointed muzzle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FUN",
+      "clue": "Enjoyment, amusement, or light-hearted pleasure.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GET",
+      "clue": "To come to have or hold; receive.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GIRL",
+      "clue": "Young female human being.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAT",
+      "clue": "A covering for the head.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HOT",
+      "clue": "Having a high temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ICE",
+      "clue": "Frozen water.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JOB",
+      "clue": "A paid position of regular employment.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JOY",
+      "clue": "A feeling of great pleasure and happiness.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LOW",
+      "clue": "Of less than average height.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MAN",
+      "clue": "An adult male human being.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MAY",
+      "clue": "Expressing possibility; the fifth month.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NEW",
+      "clue": "Not existing before.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NOW",
+      "clue": "At the present time or moment.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OLD",
+      "clue": "Having lived for a long time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ONE",
+      "clue": "The lowest cardinal number.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OUT",
+      "clue": "Moving or appearing to move away from a particular place.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PET",
+      "clue": "A domestic or tamed animal kept for companionship.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PUT",
+      "clue": "To move something to a particular place.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SAD",
+      "clue": "Feeling or showing sorrow; unhappy.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SAW",
+      "clue": "Past tense of see; also a cutting tool.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SAY",
+      "clue": "To utter words.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SEE",
+      "clue": "To perceive with the eyes.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SHE",
+      "clue": "Used to refer to a female person.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SIT",
+      "clue": "To be in a position in which the body is supported by the buttocks.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SON",
+      "clue": "A boy or man in relation to his parents.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TOP",
+      "clue": "The highest point or part of something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TRY",
+      "clue": "To make an attempt.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "USE",
+      "clue": "To employ for a particular purpose.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WAR",
+      "clue": "A state of armed conflict.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WAY",
+      "clue": "A method, style, or manner of doing something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WHO",
+      "clue": "What or which person or people.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WHY",
+      "clue": "For what reason or purpose.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "YES",
+      "clue": "Used to give an affirmative response.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEACH",
+      "clue": "A sandy shore by a body of water.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEGIN",
+      "clue": "To start.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BELOW",
+      "clue": "At a lower level or place.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BROWN",
+      "clue": "A color like that of earth or coffee.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BUILD",
+      "clue": "To construct by putting parts together.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CARRY",
+      "clue": "To support and move.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLEAN",
+      "clue": "Free from dirt or impurities.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLOSE",
+      "clue": "To shut; near in space or time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COLOR",
+      "clue": "The property possessed by an object of producing different sensations on the eye.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DANCE",
+      "clue": "To move rhythmically to music.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DREAM",
+      "clue": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DRINK",
+      "clue": "To take liquid into the mouth and swallow.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EARTH",
+      "clue": "The planet on which we live.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EMPTY",
+      "clue": "Containing nothing.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ENJOY",
+      "clue": "To take delight or pleasure in.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ENTER",
+      "clue": "To come or go into.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIGHT",
+      "clue": "To take part in a violent struggle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLOOR",
+      "clue": "The lower surface of a room.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLOWER",
+      "clue": "The seed-bearing part of a plant.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAPPY",
+      "clue": "Feeling or showing pleasure.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HEART",
+      "clue": "A hollow muscular organ that pumps the blood.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HEAVY",
+      "clue": "Of great weight.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HOUSE",
+      "clue": "A building for human habitation.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LEARN",
+      "clue": "To gain knowledge or skill.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LEAVE",
+      "clue": "To go away from.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MONEY",
+      "clue": "A current medium of exchange.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MONTH",
+      "clue": "One of the twelve divisions of the year.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NORTH",
+      "clue": "The direction to the left of a person facing the rising sun.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PAPER",
+      "clue": "Material for writing or drawing on.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PEACE",
+      "clue": "Freedom from disturbance; tranquility.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PLACE",
+      "clue": "A particular position or point in space.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "POWER",
+      "clue": "The ability to do something.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "QUIET",
+      "clue": "Making little or no noise.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "READY",
+      "clue": "Prepared for an activity or event.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RIVER",
+      "clue": "Large natural stream of flowing water.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ROUGH",
+      "clue": "Having an uneven or irregular surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ALWAYS",
+      "clue": "At all times",
+      "difficulty": "medium"
+    },
+    {
+      "word": "AROUND",
+      "clue": "On every side",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BECAUSE",
+      "clue": "For the reason that",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BEFORE",
+      "clue": "During the period of time preceding",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BETWEEN",
+      "clue": "In the space separating",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BRING",
+      "clue": "Take or carry to a place",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BROTHER",
+      "clue": "A male sibling",
+      "difficulty": "medium"
+    },
+    {
+      "word": "COUNTRY",
+      "clue": "A nation with its own government",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CREATE",
+      "clue": "Bring into existence",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DIFFERENT",
+      "clue": "Not the same",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FATHER",
+      "clue": "Male parent",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FINISH",
+      "clue": "Bring to an end.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FOLLOW",
+      "clue": "Go or come after.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAPPEN",
+      "clue": "Take place; occur.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LISTEN",
+      "clue": "Give attention to sound",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MOTHER",
+      "clue": "Female parent",
+      "difficulty": "medium"
+    },
+    {
+      "word": "NEVER",
+      "clue": "At no time in the past or future.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OCEAN",
+      "clue": "A very large expanse of sea.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "OFTEN",
+      "clue": "Frequently; many times.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PEOPLE",
+      "clue": "Human beings in general",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PICTURE",
+      "clue": "A painting, drawing, or photograph.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PLANET",
+      "clue": "Celestial body in orbit around a star",
+      "difficulty": "medium"
+    },
+    {
+      "word": "REALLY",
+      "clue": "In actual fact.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "REMEMBER",
+      "clue": "Have in or bring to one's mind.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SHOULD",
+      "clue": "Used to indicate obligation, duty, or correctness.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SISTER",
+      "clue": "A female sibling",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SOMETHING",
+      "clue": "A thing that is unspecified or unknown.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SPECIAL",
+      "clue": "Better, greater, or otherwise different from what is usual.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "THINK",
+      "clue": "Have a particular belief or idea.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TOGETHER",
+      "clue": "With or in proximity to another person or people.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TOMORROW",
+      "clue": "The day after today",
+      "difficulty": "medium"
+    },
+    {
+      "word": "TRAVEL",
+      "clue": "Go from one place to another.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "UNDERSTAND",
+      "clue": "Perceive the intended meaning of.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WEATHER",
+      "clue": "The state of the atmosphere at a place and time.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WHILE",
+      "clue": "A period of time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WITHOUT",
+      "clue": "In the absence of",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WOMAN",
+      "clue": "An adult female human being.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AXE",
+      "clue": "A tool for chopping wood.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EGG",
+      "clue": "Laid by birds, often eaten.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "INK",
+      "clue": "Colored fluid used for writing.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JAM",
+      "clue": "A sweet spread made from fruit.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JET",
+      "clue": "A fast airplane.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JUG",
+      "clue": "A container for liquids, with a handle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KID",
+      "clue": "Informal term for a child.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LIP",
+      "clue": "One of the two fleshy parts of the mouth.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LOG",
+      "clue": "A section of a felled tree.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OWL",
+      "clue": "A nocturnal bird of prey.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RIB",
+      "clue": "One of the curved bones in the chest.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ROW",
+      "clue": "A number of people or things in a line.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TAX",
+      "clue": "A compulsory contribution to state revenue.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TIN",
+      "clue": "A silvery-white metal.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WET",
+      "clue": "Covered or saturated with liquid.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ZOO",
+      "clue": "A place where animals are kept.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ALIVE",
+      "clue": "Living, not dead.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ANGER",
+      "clue": "A strong feeling of displeasure.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "APRIL",
+      "clue": "The fourth month of the year.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AWARD",
+      "clue": "A prize or other mark of recognition.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BABY",
+      "clue": "A very young child.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BAKER",
+      "clue": "A person who bakes bread.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BALL",
+      "clue": "A round object used in games.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BANK",
+      "clue": "A financial institution.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BREAD",
+      "clue": "Food made of flour, water, and yeast.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BRICK",
+      "clue": "A block of baked clay.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BRUSH",
+      "clue": "An implement with bristles.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CACHE",
+      "clue": "A hidden store of things.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CAKE",
+      "clue": "A sweet baked food.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CALM",
+      "clue": "Not showing or feeling nervousness.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CANDY",
+      "clue": "Sweet food made with sugar.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHEF",
+      "clue": "A professional cook.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CHILD",
+      "clue": "A young human being.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLIMB",
+      "clue": "To go up or ascend.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COAST",
+      "clue": "The part of the land near the sea.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DRESS",
+      "clue": "A piece of clothing for women.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EARLY",
+      "clue": "Before the usual or expected time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EQUAL",
+      "clue": "Being the same in quantity, size, degree, or value.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ERROR",
+      "clue": "A mistake.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "EVENT",
+      "clue": "A thing that happens.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FANCY",
+      "clue": "Elaborate in structure or decoration.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FIELD",
+      "clue": "An area of open land.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FRUIT",
+      "clue": "The sweet and fleshy product of a plant.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GLASS",
+      "clue": "A hard, brittle substance, typically transparent.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GREAT",
+      "clue": "Of an extent, amount, or intensity considerably above average.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GUIDE",
+      "clue": "A person who shows the way.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "IMAGE",
+      "clue": "A representation of the external form of a person or thing.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "JUDGE",
+      "clue": "A public official appointed to decide cases in a court of law.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LARGE",
+      "clue": "Of considerable or relatively great size.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LAUGH",
+      "clue": "To make sounds expressing amusement.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LUCKY",
+      "clue": "Having, bringing, or resulting from good luck.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MAGIC",
+      "clue": "The power of apparently influencing events by using mysterious or supernatural forces.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MARCH",
+      "clue": "The third month of the year; to walk in a military manner.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "METAL",
+      "clue": "A solid material that is typically hard, shiny, malleable, fusible, and ductile.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MODEL",
+      "clue": "A three-dimensional representation of a person or thing.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "NOISE",
+      "clue": "A sound, especially one that is loud or unpleasant.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PAINT",
+      "clue": "A colored substance spread over a surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PARTY",
+      "clue": "A social gathering.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PLANE",
+      "clue": "A flat surface; an airplane.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PRICE",
+      "clue": "The amount of money expected, required, or given in payment for something.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PRIZE",
+      "clue": "Something given as a reward.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PROOF",
+      "clue": "Evidence establishing a fact or the truth.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "QUEEN",
+      "clue": "The female ruler of an independent state.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "QUICK",
+      "clue": "Moving fast or doing something in a short time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RANCH",
+      "clue": "A large farm.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SHAPE",
+      "clue": "The external form, contours, or outline of someone or something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SHIRT",
+      "clue": "A garment for the upper body.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SHOUT",
+      "clue": "To utter a loud call or cry.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SMILE",
+      "clue": "A pleased, kind, or amused facial expression.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SOUTH",
+      "clue": "The direction opposite of north.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "STAGE",
+      "clue": "A raised floor or platform.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "STEEL",
+      "clue": "A hard, strong alloy of iron and carbon.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "STORE",
+      "clue": "A place where things are kept for sale.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "STORM",
+      "clue": "A violent disturbance of the atmosphere.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "STORY",
+      "clue": "An account of imaginary or real events.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TEACH",
+      "clue": "To impart knowledge or skill.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "TRAIN",
+      "clue": "A series of connected railroad cars.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TRICK",
+      "clue": "A cunning or skillful act.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "TRUTH",
+      "clue": "That which is true or in accordance with fact or reality.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "UNCLE",
+      "clue": "The brother of one's father or mother.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "VOICE",
+      "clue": "The sound produced in a person's larynx.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WAGON",
+      "clue": "A vehicle with four wheels, for transporting goods.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WEALTH",
+      "clue": "An abundance of valuable possessions or money",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WEBSITE",
+      "clue": "Set of related web pages under a single domain",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WHALE",
+      "clue": "A very large marine mammal.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WHEAT",
+      "clue": "A cereal grain.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WHEEL",
+      "clue": "A circular object that revolves on an axle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WOMEN",
+      "clue": "Plural of woman.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WRITE",
+      "clue": "To mark letters or words on a surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WRONG",
+      "clue": "Not correct or true.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "YACHT",
+      "clue": "A medium-sized sailboat.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "YEAR",
+      "clue": "A period of 365 days.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ABILITY",
+      "clue": "Possession of the means or skill to do something.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ADDRESS",
+      "clue": "The particulars of the place where someone lives.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "AGAINST",
+      "clue": "In opposition to.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ALREADY",
+      "clue": "Before or by now or the time in question.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ANOTHER",
+      "clue": "Used to refer to an additional person or thing.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ANSWER",
+      "clue": "A thing that is said, written, or done as a reaction to a question.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ANYBODY",
+      "clue": "Anyone.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ANYTHING",
+      "clue": "A thing of any kind.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "APPEAR",
+      "clue": "Come into sight",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ARTICLE",
+      "clue": "Piece of writing in publication",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BALLOON",
+      "clue": "A small inflatable rubber sack.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ACT",
+      "clue": "To do something; a part of a play.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ADD",
+      "clue": "To combine numbers.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AGO",
+      "clue": "Before the present time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ANY",
+      "clue": "One, some, or every.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "APE",
+      "clue": "A large primate without a tail.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ARE",
+      "clue": "Second person singular present and plural present of be.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ASH",
+      "clue": "The powdery residue left after the burning of a substance.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AUNT",
+      "clue": "The sister of one's father or mother.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AWAY",
+      "clue": "To or at a distance from a particular place.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BARN",
+      "clue": "A large farm building.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEAR",
+      "clue": "A large, heavy mammal with thick fur.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEAT",
+      "clue": "To defeat; to strike repeatedly.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEND",
+      "clue": "Shape or force (something straight) into a curve or angle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEST",
+      "clue": "Of the most excellent, effective, or desirable type or quality.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLOW",
+      "clue": "Move creating an air current.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BOAT",
+      "clue": "A small vessel for traveling on water.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BONE",
+      "clue": "Any of the pieces of hard whitish tissue making up the skeleton.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BURN",
+      "clue": "Be on fire; damage or destroy by fire.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CAMP",
+      "clue": "A place with temporary accommodations.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CARD",
+      "clue": "A piece of thick, stiff paper.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CARE",
+      "clue": "The provision of what is necessary for health.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CASE",
+      "clue": "An instance of a particular situation; a container.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CENT",
+      "clue": "A monetary unit.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHAT",
+      "clue": "Talk in a friendly and informal way.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHIN",
+      "clue": "The protruding part of the face below the mouth.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COLD",
+      "clue": "At a low temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COOK",
+      "clue": "Prepare (food) by heating it.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COOL",
+      "clue": "Of or at a fairly low temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COPY",
+      "clue": "A thing made to be similar or identical to another.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CORN",
+      "clue": "A cereal plant, like maize.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COST",
+      "clue": "Require the payment of (a specified sum of money).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DATE",
+      "clue": "The day of the month or year; also a sweet fruit.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DEEP",
+      "clue": "Extending far down from the top or surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DESK",
+      "clue": "A piece of furniture with a flat or sloped surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DROP",
+      "clue": "Let or make (something) fall vertically.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DUST",
+      "clue": "Fine, dry particles.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EACH",
+      "clue": "Every one of two or more.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EAST",
+      "clue": "The direction toward the point of the horizon where the sun rises.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EASY",
+      "clue": "Achieved without great effort.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EDGE",
+      "clue": "The outside limit of an object, area, or surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EXIT",
+      "clue": "A way out.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FACE",
+      "clue": "The front part of the head.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FACT",
+      "clue": "A thing that is known to be true.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FALL",
+      "clue": "Move downward, typically rapidly and freely.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FARM",
+      "clue": "An area of land and its buildings used for growing crops and rearing animals.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FAST",
+      "clue": "Moving or capable of moving at high speed.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FEEL",
+      "clue": "Experience (an emotion or sensation).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FILL",
+      "clue": "Put something into (a container or space).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FILM",
+      "clue": "A thin, flexible strip of plastic; a movie.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIND",
+      "clue": "Discover unexpectedly or while looking for something else.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FINE",
+      "clue": "Of high quality; also a sum of money paid as a penalty.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIRE",
+      "clue": "The rapid oxidation of a material in the exothermic chemical process of combustion.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIRM",
+      "clue": "Having a solid, almost unyielding surface or structure.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIRST",
+      "clue": "Coming before all others in time or order.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLAT",
+      "clue": "Smooth and even; without marked lumps or indentations.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FORM",
+      "clue": "The visible shape or configuration of something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FREE",
+      "clue": "Not under the control or in the power of another; able to act or be done as one wishes.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FROM",
+      "clue": "Indicating the point in space at which a journey, motion, or action starts.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FULL",
+      "clue": "Containing or holding as much or as many as possible.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GIFT",
+      "clue": "A thing given willingly to someone without payment; a present.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GOLD",
+      "clue": "A yellow precious metal.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GOOD",
+      "clue": "To be desired or approved of.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GROW",
+      "clue": "Increase in size or substance.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAND",
+      "clue": "The end part of a person's arm beyond the wrist.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HANG",
+      "clue": "Suspend or be suspended from above.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HARD",
+      "clue": "Solid, firm, and rigid; not easily broken, bent, or pierced.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HATE",
+      "clue": "Feel intense or passionate dislike for (someone).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAVE",
+      "clue": "Possess, own, or hold.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HEAD",
+      "clue": "The part of the body above the neck where the eyes, nose, mouth, ears, and brain are.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HEAT",
+      "clue": "The quality of being hot; high temperature.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HELP",
+      "clue": "Make it easier for (someone) to do something by offering one's services or resources.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HERE",
+      "clue": "In, at, or to this place or position.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HIGH",
+      "clue": "Of great vertical extent.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HOLD",
+      "clue": "Grasp, carry, or support with one's hands.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HOLE",
+      "clue": "A hollow place in a solid body or surface.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HOPE",
+      "clue": "A feeling of expectation and desire for a certain thing to happen.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HUNT",
+      "clue": "Pursue and kill (a wild animal) for sport or food.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HURT",
+      "clue": "Cause physical pain or injury to.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "IDEA",
+      "clue": "A thought or suggestion as to a possible course of action.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "INTO",
+      "clue": "Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JOIN",
+      "clue": "Link; connect.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JUMP",
+      "clue": "Push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "JUST",
+      "clue": "Based on or behaving according to what is morally right and fair.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KEEP",
+      "clue": "Have or retain possession of.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KIND",
+      "clue": "A group of people or things having similar characteristics; gentle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KING",
+      "clue": "The male ruler of an independent state.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "KNEE",
+      "clue": "The joint between the thigh and the lower leg in humans.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KNOW",
+      "clue": "Be aware of through observation, inquiry, or information.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LAKE",
+      "clue": "A large body of water surrounded by land.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LAND",
+      "clue": "The part of the earth's surface that is not covered by water.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LAST",
+      "clue": "Coming after all others in time or order; final.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LATE",
+      "clue": "Doing something or taking place after the expected, proper, or usual time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LEFT",
+      "clue": "On, toward, or relating to the side of a person or thing which is to the west when the subject is facing north.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LEND",
+      "clue": "Grant to (someone) the use of (something) on the understanding that it shall be returned.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LIFE",
+      "clue": "The condition that distinguishes animals and plants from inorganic matter.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LINE",
+      "clue": "A long, narrow mark or band.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LIST",
+      "clue": "A number of connected items or names written or printed consecutively.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LONG",
+      "clue": "Measuring a great distance from end to end.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LOOK",
+      "clue": "Direct one's gaze toward someone or something or in a specified direction.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LOSE",
+      "clue": "Be deprived of or cease to have or retain (something).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LOVE",
+      "clue": "An intense feeling of deep affection.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LUNCH",
+      "clue": "A meal eaten in the middle of the day.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AGO",
+      "clue": "Before the present; in the past.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BEE",
+      "clue": "A flying insect that makes honey.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COB",
+      "clue": "The central part of an ear of corn.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRY",
+      "clue": "To shed tears, typically as an expression of distress.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DIM",
+      "clue": "Not bright or clear.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DRY",
+      "clue": "Free from moisture or liquid; not wet.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DUG",
+      "clue": "Past tense of dig.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ELF",
+      "clue": "A mythical creature of folk tales.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "END",
+      "clue": "A final part of something, especially a period of time.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ERA",
+      "clue": "A long and distinct period of history.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FIT",
+      "clue": "Of a suitable quality, standard, or type.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FUR",
+      "clue": "The short, fine, soft hair of certain animals.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GEM",
+      "clue": "A precious or semiprecious stone.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAS",
+      "clue": "Third person singular present of have.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HER",
+      "clue": "Belonging to a female person or animal.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HIM",
+      "clue": "Used as the object of a verb or preposition to refer to a male person.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HIT",
+      "clue": "To strike with a blow.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ITS",
+      "clue": "Belonging to it.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MIX",
+      "clue": "Combine or put together to form one substance.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MUD",
+      "clue": "Soft, wet earth.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NET",
+      "clue": "Material made of knotted threads; also, the Internet.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NUT",
+      "clue": "A fruit consisting of a hard shell and a seed.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ODD",
+      "clue": "Different to what is usual or expected; strange.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OIL",
+      "clue": "A viscous liquid derived from petroleum.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "OUR",
+      "clue": "Belonging to us.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PAY",
+      "clue": "Give (someone) money that is due for work done.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PIE",
+      "clue": "A baked dish of fruit, or meat and vegetables.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "POT",
+      "clue": "A container, typically rounded or cylindrical.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RAW",
+      "clue": "Not cooked.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RUG",
+      "clue": "A floor covering made of thick woven material.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RUN",
+      "clue": "Move at a speed faster than a walk.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SIR",
+      "clue": "Used as a polite or respectful form of address to a man.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SKI",
+      "clue": "One of a pair of long, narrow pieces of hard, flexible material, for gliding over snow.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TEA",
+      "clue": "A hot drink made by infusing dried leaves.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TIE",
+      "clue": "Attach or fasten with string or similar cord.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "VAN",
+      "clue": "A medium-sized motor vehicle, typically without side windows.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WIN",
+      "clue": "Be successful or victorious in a contest.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "YET",
+      "clue": "Up until the present or a specified or implied time; by now or then.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ABOVE",
+      "clue": "In extended space over and not touching.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AGREE",
+      "clue": "Have the same opinion about something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ALARM",
+      "clue": "A warning of danger.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ALONE",
+      "clue": "Having no one else present.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "APRIL",
+      "clue": "The fourth month of the year.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ARGUE",
+      "clue": "Give reasons or cite evidence in support of an idea.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "AVOID",
+      "clue": "Keep away from or stop oneself from doing.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BACON",
+      "clue": "Cured meat from the sides and belly of a pig.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BAKER",
+      "clue": "A person whose trade is making bread and cakes.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BASIS",
+      "clue": "The underlying support or foundation for an idea.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BEACH",
+      "clue": "A pebbly or sandy shore.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BELLY",
+      "clue": "The front part of the human trunk below the ribs.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BELOW",
+      "clue": "At a lower level or layer.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BENCH",
+      "clue": "A long seat for several people.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BIRTH",
+      "clue": "The emergence of a baby or other young from the body of its mother.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLAME",
+      "clue": "Assign responsibility for a fault or wrong.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLIND",
+      "clue": "Unable to see.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLOOD",
+      "clue": "The red liquid that circulates in the arteries and veins.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLUSH",
+      "clue": "Show shyness, embarrassment, or shame by becoming red in the face.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BRAIN",
+      "clue": "An organ of soft nervous tissue contained in the skull.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BRAVE",
+      "clue": "Ready to face and endure danger or pain.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BREAD",
+      "clue": "Food made of flour, water, and yeast mixed together and baked.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BREAK",
+      "clue": "Separate or cause to separate into pieces.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BRIDE",
+      "clue": "A woman on her wedding day.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BROOM",
+      "clue": "A long-handled brush of bristles or twigs.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BROWN",
+      "clue": "Of a color produced by mixing red, yellow, and blue.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BRUSH",
+      "clue": "An implement with a handle and a block of bristles.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BUILD",
+      "clue": "Construct (something) by putting parts or material together.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BUNCH",
+      "clue": "A number of things, typically of the same kind.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CANDY",
+      "clue": "A sweet food made with sugar or syrup.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CARGO",
+      "clue": "Goods carried on a ship, aircraft, or motor vehicle.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CARVE",
+      "clue": "Cut (a hard material) in order to produce an object or design.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CATCH",
+      "clue": "Intercept and hold (something which has been thrown).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CAUSE",
+      "clue": "A person or thing that gives rise to an action.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CHAIN",
+      "clue": "A series of connected metal links.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHALK",
+      "clue": "A white soft earthy limestone.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHART",
+      "clue": "A sheet of information in the form of a table, graph, or diagram.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CHASE",
+      "clue": "Pursue in order to catch or catch up with.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHEAP",
+      "clue": "Low in price.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHEEK",
+      "clue": "Either side of the face below the eye.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHESS",
+      "clue": "A board game of strategic skill for two players.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CHEST",
+      "clue": "The front of a person's or animal's body between the neck and the stomach.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHILL",
+      "clue": "An unpleasant feeling of coldness.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CHOICE",
+      "clue": "An act of selecting or making a decision.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CHOOSE",
+      "clue": "Pick out or select (someone or something) as being the best.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLEAN",
+      "clue": "Free from dirt, marks, or stains.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLEAR",
+      "clue": "Easy to perceive, understand, or interpret.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLERK",
+      "clue": "A person employed in an office or bank to keep records and accounts.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CLIMB",
+      "clue": "Go or come up (a slope, incline, or staircase).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLOAK",
+      "clue": "A sleeveless outdoor overgarment.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CLOTH",
+      "clue": "Woven or felted fabric made from wool, cotton, or a similar fiber.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COACH",
+      "clue": "A horse-drawn carriage; a tutor.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COAST",
+      "clue": "The part of the land adjoining or near the sea.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "COURT",
+      "clue": "A tribunal presided over by a judge or judges.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "COVER",
+      "clue": "Put something such as a cloth or lid on top of or in front of (something).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRACK",
+      "clue": "A line on the surface of something along which it has split.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRAFT",
+      "clue": "An activity involving skill in making things by hand.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CRANE",
+      "clue": "A large, tall machine used for moving heavy objects.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CRAWL",
+      "clue": "Move forward on the hands and knees.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRAZY",
+      "clue": "Mentally deranged; extremely enthusiastic.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CREAM",
+      "clue": "The thick white or pale yellow fatty liquid which rises to the top when milk is left to stand.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRIME",
+      "clue": "An action or omission which constitutes an offense.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CRISP",
+      "clue": "Firm, dry, and brittle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CROWD",
+      "clue": "A large number of people gathered together.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CRUEL",
+      "clue": "Willfully causing pain or suffering to others.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CRUSH",
+      "clue": "Compress or squeeze forcefully.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DANCE",
+      "clue": "Move rhythmically to music.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DEATH",
+      "clue": "The action or fact of dying or being killed.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DELAY",
+      "clue": "Make (someone or something) late or slow.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DEPTH",
+      "clue": "The distance from the top or surface to the bottom of something.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DIRTY",
+      "clue": "Covered or marked with an unclean substance.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DOUBT",
+      "clue": "A feeling of uncertainty.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DOUGH",
+      "clue": "A thick, malleable mixture of flour and liquid.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DREAM",
+      "clue": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DRILL",
+      "clue": "Tool for boring holes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DRINK",
+      "clue": "Take (a liquid) into the mouth and swallow.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DRIVE",
+      "clue": "Operate and control the direction and speed of a motor vehicle.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EARTH",
+      "clue": "The planet on which we live; soil.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EIGHT",
+      "clue": "The number 8",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EITHER",
+      "clue": "Used before the first of two alternatives.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ENOUGH",
+      "clue": "As much or as many as required",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EVERY",
+      "clue": "Used to refer to all the individuals",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EVIL",
+      "clue": "Profoundly immoral and wicked.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "EXCEPT",
+      "clue": "Not including",
+      "difficulty": "medium"
+    },
+    {
+      "word": "EXTRA",
+      "clue": "Added to an existing or usual amount or number.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FAINT",
+      "clue": "Barely perceptible; weak.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FAVOR",
+      "clue": "Approval or liking",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FEVER",
+      "clue": "Abnormally high body temperature",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FIFTH",
+      "clue": "Constituting number five in a sequence",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIGHT",
+      "clue": "Take part in a violent struggle involving the exchange of physical blows.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FINAL",
+      "clue": "Coming at the end of a series.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FIRST",
+      "clue": "Coming before all others in time or order.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLAME",
+      "clue": "A hot glowing body of ignited gas.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLIGHT",
+      "clue": "The action or process of flying",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FLOOD",
+      "clue": "An overflowing of a large amount of water beyond its normal confines.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FLOOR",
+      "clue": "The lower surface of a room, on which one may walk.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLOUR",
+      "clue": "A powder obtained by grinding grain.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FLOWER",
+      "clue": "The seed-bearing part of a plant, often brightly colored.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FORCE",
+      "clue": "Strength or energy as an attribute of physical action or movement.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FORK",
+      "clue": "An implement with two or more prongs.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FRAME",
+      "clue": "A rigid structure that surrounds something.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FRESH",
+      "clue": "Newly made or obtained.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FRONT",
+      "clue": "The side or part of an object that presents itself to view or that is normally seen first.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FRUIT",
+      "clue": "Edible product of plant/tree",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FUNNY",
+      "clue": "Causing laughter or amusement.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GHOST",
+      "clue": "An apparition of a dead person.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "GIANT",
+      "clue": "Of very great size or force",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GLASS",
+      "clue": "Transparent substance for windows",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GLOVE",
+      "clue": "Hand covering",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GRAIN",
+      "clue": "Wheat or any other cultivated cereal crop used as food.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "GRASS",
+      "clue": "Vegetation consisting of short plants with long, narrow leaves.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GRAVE",
+      "clue": "A place of burial for a dead body.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GREAT",
+      "clue": "Of an extent, amount, or intensity considerably above the normal or average.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GROWN",
+      "clue": "Past participle of grow.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GUARD",
+      "clue": "Watch over in order to protect or control.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "GUESS",
+      "clue": "Estimate or suppose (something) without sufficient information to be sure of being correct.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GUEST",
+      "clue": "Person invited to visit or stay",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HABIT",
+      "clue": "A settled or regular tendency or practice.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "HAIRY",
+      "clue": "Covered with hair.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAMMER",
+      "clue": "A tool with a heavy metal head.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HAPPY",
+      "clue": "Feeling or showing pleasure or contentment.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HARSH",
+      "clue": "Unpleasantly rough or jarring to the senses.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "HEAVY",
+      "clue": "Of great weight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "HONEY",
+      "clue": "Sweet fluid made by bees",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ZIP",
+      "clue": "Fastener; to move quickly.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WIFI",
+      "clue": "Wireless network technology.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "URL",
+      "clue": "Web address (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SMS",
+      "clue": "Text message (abbreviation).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PIN",
+      "clue": "Personal Identification Number.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "APP",
+      "clue": "Short for application (software).",
+      "difficulty": "easy"
+    },
+    {
+      "word": "RAM",
+      "clue": "Computer memory (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ROM",
+      "clue": "Read-Only Memory (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CPU",
+      "clue": "Central Processing Unit (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "GPU",
+      "clue": "Graphics Processing Unit (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "USB",
+      "clue": "Universal Serial Bus (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "HTML",
+      "clue": "Web page language (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CSS",
+      "clue": "Style sheet language (abbreviation).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "JAVA",
+      "clue": "A programming language.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CODE",
+      "clue": "Instructions for a computer.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BYTE",
+      "clue": "A unit of digital information.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DATA",
+      "clue": "Information processed by a computer.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FILE",
+      "clue": "A collection of data or information.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ICON",
+      "clue": "A small graphical representation.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MENU",
+      "clue": "A list of options on a computer.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LINK",
+      "clue": "A connection between web pages.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BLOG",
+      "clue": "Online journal or diary.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "EMAIL",
+      "clue": "Electronic mail.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "VIRUS",
+      "clue": "Malicious software.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SPAM",
+      "clue": "Unsolicited email.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLOUD",
+      "clue": "Internet-based computing.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LOGIN",
+      "clue": "Process of gaining access.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ROBOT",
+      "clue": "Automated machine.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PIXEL",
+      "clue": "Smallest unit of a digital image.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DEBUG",
+      "clue": "Find and fix errors in code.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PASTE",
+      "clue": "Insert copied content.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "MOUSE",
+      "clue": "Computer pointing device.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SWIPE",
+      "clue": "Slide finger across a screen.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SCROLL",
+      "clue": "Move content up or down on a screen.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TWEET",
+      "clue": "Post on Twitter.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SHARE",
+      "clue": "Distribute online.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LIKE",
+      "clue": "Express approval on social media.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "POST",
+      "clue": "Publish content online.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TAG",
+      "clue": "Label someone in a post or photo.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FORUM",
+      "clue": "Online discussion platform",
+      "difficulty": "medium"
+    },
+    {
+      "word": "QUERY",
+      "clue": "A question, often to a database.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SERVER",
+      "clue": "Computer that provides data to others.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "UPDATE",
+      "clue": "Make something more modern.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "UPLOAD",
+      "clue": "Transfer data from one system to another.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "VIDEO",
+      "clue": "Recording of moving visual images.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AUDIO",
+      "clue": "Sound, especially when recorded.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CLICK",
+      "clue": "Press a mouse button.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COBOL",
+      "clue": "An old programming language.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FORTRAN",
+      "clue": "Another old programming language.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PASCAL",
+      "clue": "Yet another old programming language.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SWIFT",
+      "clue": "Apple's programming language",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BATCH",
+      "clue": "Group of jobs for computer processing.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BINARY",
+      "clue": "Base-2 number system.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BITMAP",
+      "clue": "Type of computer image.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BROWSER",
+      "clue": "Software for accessing the internet.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "BUFFER",
+      "clue": "Temporary memory area.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BUTTON",
+      "clue": "Clickable element on a screen or device.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "COOKIE",
+      "clue": "Data stored by a website.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CURSOR",
+      "clue": "Movable indicator on a screen.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DELETE",
+      "clue": "Remove data.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DESKTOP",
+      "clue": "Computer's main screen area.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DEVICE",
+      "clue": "Piece of electronic equipment.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DIGITAL",
+      "clue": "Using binary data.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "DOMAIN",
+      "clue": "Web address name",
+      "difficulty": "easy"
+    },
+    {
+      "word": "DRIVER",
+      "clue": "Software that controls hardware",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FOLDER",
+      "clue": "Directory for storing files.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "FORMAT",
+      "clue": "Prepare a storage medium",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FREEZE",
+      "clue": "Computer stops responding.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GIGABYTE",
+      "clue": "Unit of computer storage (GB).",
+      "difficulty": "medium"
+    },
+    {
+      "word": "HARDWARE",
+      "clue": "Physical parts of a computer.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "HEADER",
+      "clue": "Top part of a webpage or document.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "INTERNET",
+      "clue": "Global network of computers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "KEYBOARD",
+      "clue": "Input device with keys.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LAPTOP",
+      "clue": "Portable computer.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NETWORK",
+      "clue": "Interconnected computers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "OFFLINE",
+      "clue": "Not connected to the internet.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ONLINE",
+      "clue": "Connected to the internet.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PASSWORD",
+      "clue": "Secret word for access.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PRINTER",
+      "clue": "Output device for paper",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PROGRAM",
+      "clue": "Set of computer instructions.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "SCREEN",
+      "clue": "Display surface of a device",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SEARCH",
+      "clue": "Look for information online.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "SOFTWARE",
+      "clue": "Programs and operating information",
+      "difficulty": "medium"
+    },
+    {
+      "word": "TABLET",
+      "clue": "Mobile computing device.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TROJAN",
+      "clue": "Type of malware.",
+      "difficulty": "medium"
+    },
+    {
+      "word": "WINDOW",
+      "clue": "Separate viewing area on a screen.",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WIRELESS",
+      "clue": "Without wires.",
+      "difficulty": "easy"
+    }
+  ]
+}
